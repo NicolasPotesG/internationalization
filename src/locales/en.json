@@ -1,0 +1,13 @@
+{
+	"Position": "Job title",
+	"Company": "Company",
+	"Salary": "Salary",
+	"City": "City",
+	"PublicationDate": "Publication date",
+	"Views": "Views",
+	"1stJob": "Manager",
+	"2ndJob": "Software Engineer",
+	"3rdJob": "Nurse",
+	"SalarySpecSingular": " million",
+	"SalarySpecPlural": " millions"
+}

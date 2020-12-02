@@ -1,0 +1,13 @@
+{
+	"Position": "Nombre del cargo",
+	"Company": "Empresa",
+	"Salary": "Salario",
+	"City": "Ciudad",
+	"PublicationDate": "Fecha de publicación",
+	"Views": "No. Visitas",
+	"1stJob": "Gerente",
+	"2ndJob": "Ingeniero de Software",
+	"3rdJob": "Enfermera",
+	"SalarySpecSingular": " millón",
+	"SalarySpecPlural": " millones"
+}
